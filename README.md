@@ -9,7 +9,7 @@ MARGINAL is a software that includes a machine learning model to support variant
 -  clinvar_roi_annotation.xlsx: clinvar annotation
 - Fisher_exact_test_FINAL_patients_AC.xlsx: Case-study dataset
 - output_vep_clinvar_missense_score_filtered.xlsx: missense variants derived from ClinVar and annotated by VEP
--repeatmasker_brca1_2.xlsx: repeat regions in BRCA1/2 genes
+- repeatmasker_brca1_2.xlsx: repeat regions in BRCA1/2 genes
 
 
 # “Scripts” folder
